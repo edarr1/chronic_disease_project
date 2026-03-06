@@ -1,0 +1,9 @@
+"clinic_id","clinic_name","bmi_category","n"
+1,"Downtown Health Center","Normal",144
+1,"Downtown Health Center","Obese",253
+1,"Downtown Health Center","Overweight",100
+1,"Downtown Health Center","Underweight",9
+2,"River Parish Clinic","Normal",149
+2,"River Parish Clinic","Obese",210
+2,"River Parish Clinic","Overweight",122
+2,"River Parish Clinic","Underweight",13
