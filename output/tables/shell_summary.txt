@@ -1,0 +1,30 @@
+Prevalence: 0.503 
+
+Mean BMI (HTN=0): 28.6843 
+Mean BMI (HTN=1): 29.2165 
+
+Top 5 Counties by Diabetes Prev.: 
+2020,Orleans County,0.14,0.3,394000
+2019,Orleans County,0.13,0.29,392000
+2020,East Baton Rouge County,0.122,0.292,449000
+2018,Orleans County,0.12,0.28,390000
+2019,East Baton Rouge County,0.118,0.288,447000 
+
+High Burden Counties: 
+None 
+
+Prevalence: 0.503 
+
+Mean BMI (HTN=0): 28.6843 
+Mean BMI (HTN=1): 29.2165 
+
+Top 5 Counties by Diabetes Prev.: 
+2020,Orleans County,0.14,0.3,394000
+2019,Orleans County,0.13,0.29,392000
+2020,East Baton Rouge County,0.122,0.292,449000
+2018,Orleans County,0.12,0.28,390000
+2019,East Baton Rouge County,0.118,0.288,447000 
+
+High Burden Counties: 
+None 
+

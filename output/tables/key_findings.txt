@@ -1,0 +1,30 @@
+x
+Summary of Key Findings
+
+Race by Diabetes Prevalence:
+             RaceGroup total_n diabetes_n diabetes_proportion
+5 Other / Multi-racial     160         87           0.5437500
+4   Non-Hispanic White     232        118           0.5086207
+3   Non-Hispanic Black     207        104           0.5024155
+2   Non-Hispanic Asian     199         99           0.4974874
+1             Hispanic     202         95           0.4702970
+
+Race by Triple Burden Prevalence:
+             RaceGroup total_n triple_n triple_prop
+1 Other / Multi-racial     160       26   0.1625000
+2   Non-Hispanic White     232       28   0.1206897
+3   Non-Hispanic Asian     199       23   0.1155779
+4   Non-Hispanic Black     207       23   0.1111111
+
+Distribution of Randomized Subjects' Race by Clinic
+                   Race ClinicID NumIndividuals
+1              Hispanic        1             89
+6              Hispanic        2            113
+2    Non-Hispanic Asian        1            102
+7    Non-Hispanic Asian        2             97
+3    Non-Hispanic Black        1            101
+8    Non-Hispanic Black        2            106
+4    Non-Hispanic White        1            122
+9    Non-Hispanic White        2            110
+5  Other / Multi-racial        1             92
+10 Other / Multi-racial        2             68
